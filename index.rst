@@ -197,6 +197,7 @@ Contents:
    :maxdepth: 2
 
    handy/LazyId
+   handy/Approval
 
 
 Indices and tables
